@@ -12,7 +12,7 @@ I don't recommend using this code in production and can not guarantee it's safet
 
 ## How does it work?
 
-The main idea: if you have **n** points on a graph, you can generate a unique **n**-degree polynomial from them.
+The main idea: if you have **n** points on a graph, you can generate a unique **(n - 1)**-degree polynomial from them.
 
 ### Password creation
  
